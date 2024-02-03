@@ -1,3 +1,6 @@
+参考：
+
+
 标题 “AN IMAGE IS WORTH 16X16 WORDS” 指的是将图片划分成若干个 16 $\times$ 16 的小块
 
 Vision Transformer 证明，将原始的 Transformer 直接用于视觉任务，同样可以获得不错的结果；如果在大规模数据集上进行预训练，然后迁移到小规模任务上进行微调（这种想法是 BERT 提出来的），那么 Vision Transformer 可以取得 SOTA 性能。
